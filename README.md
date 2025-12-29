@@ -4,7 +4,7 @@ A modern, responsive social media profile card featuring a **Glassmorphism** UI 
 
 ## 🚀 Demo
 
-*(You can add a link here later if you host it on GitHub Pages)*
+*(will add a link here later if i host it on GitHub Pages)*
 
 ## ✨ Features
 
