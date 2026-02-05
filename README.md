@@ -1,4 +1,4 @@
-# Responsive-Glass-Profile01
+# Glassmorphism Social Profile
 
 A modern, responsive social media profile card featuring a **Glassmorphism** UI design. This project demonstrates the use of backdrop filters, CSS Grid, and animated gradients to create a visually striking user interface.
 
